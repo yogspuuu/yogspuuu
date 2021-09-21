@@ -3,3 +3,5 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yoga Putra Pratama</h1>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogspuuu&layout=compact&langs_count=10" alt="yogspuuu" /></p>
