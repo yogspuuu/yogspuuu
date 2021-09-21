@@ -5,6 +5,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yoga Putra Pratama</h1>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogspuuu&layout=compact&hide=PowerShell, Batchfile,Makefile,Xonsh,Shell,c%23,css,html,Blade&langs_count=10" alt="yogspuuu" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yogspuuu&show_icons=true&count_private=true" alt="yogspuuu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogspuuu&layout=compact&hide=PowerShell, Batchfile,Makefile,Xonsh,Shell,c%23,css,html,Blade&langs_count=10" alt="yogspuuu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogspuuu&show_icons=true&count_private=true" alt="yogspuuu" />
 </p>
