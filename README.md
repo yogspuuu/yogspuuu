@@ -6,4 +6,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogspuuu&layout=compact&hide=PowerShell, Batchfile,Makefile,Xonsh,Shell,c%23,css,html,Blade&langs_count=10" alt="yogspuuu" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yogspuuu&show_icons=true&count_private=true" alt="yogspuuu" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=yogspuuu&show_icons=true&count_private=true" alt="yogspuuu" /></p>
